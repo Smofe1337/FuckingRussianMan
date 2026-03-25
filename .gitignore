@@ -1,0 +1,30 @@
+# secrets
+.env
+
+# python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# bot session
+*.session
+*.session-journal
+
+# vector database
+chroma_db/
+
+# database
+*.db
+
+# os
+.DS_Store
+Thumbs.db
+
+# ide
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+aiogram
+ollama
+python-dotenv
+telethon
+chromadb
+sqlalchemy
+aiosqlite
